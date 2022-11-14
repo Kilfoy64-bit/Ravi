@@ -1,0 +1,3 @@
+[submodule "Ravi/vendor/spdlog"]
+	path = Ravi/vendor/spdlog
+	url = https://github.com/gabime/spdlog
