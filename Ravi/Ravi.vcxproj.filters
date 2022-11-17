@@ -4,6 +4,9 @@
     <Filter Include="Ravi">
       <UniqueIdentifier>{D7B28B7C-C3E9-8C0D-6CD6-721058EC080F}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Ravi\Events">
+      <UniqueIdentifier>{DBE6EE8E-479C-6784-D090-615B3C455E88}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="src\Ravi.h" />
@@ -15,6 +18,18 @@
     </ClInclude>
     <ClInclude Include="src\Ravi\EntryPoint.h">
       <Filter>Ravi</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ravi\Events\ApplicationEvent.h">
+      <Filter>Ravi\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ravi\Events\Event.h">
+      <Filter>Ravi\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ravi\Events\KeyEvent.h">
+      <Filter>Ravi\Events</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Ravi\Events\MouseEvent.h">
+      <Filter>Ravi\Events</Filter>
     </ClInclude>
     <ClInclude Include="src\Ravi\Log.h">
       <Filter>Ravi</Filter>
