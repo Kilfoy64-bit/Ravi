@@ -18,6 +18,9 @@ project "Ravi"
 	targetdir ("bin/" .. outputdir .. "/%{prj.name}")
 	objdir ("bin-int/" .. outputdir .. "/%{prj.name}")
 
+	pchheader "rvpch.h"
+	pchsource "Ravi/src/rvpch.cpp"
+
 	files 
 	{
 		"%{prj.name}/src/**.h",

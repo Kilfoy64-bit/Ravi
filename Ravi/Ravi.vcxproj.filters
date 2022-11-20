@@ -34,6 +34,7 @@
     <ClInclude Include="src\Ravi\Log.h">
       <Filter>Ravi</Filter>
     </ClInclude>
+    <ClInclude Include="src\rvpch.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Ravi\Application.cpp">
@@ -42,5 +43,6 @@
     <ClCompile Include="src\Ravi\Log.cpp">
       <Filter>Ravi</Filter>
     </ClCompile>
+    <ClCompile Include="src\rvpch.cpp" />
   </ItemGroup>
 </Project>

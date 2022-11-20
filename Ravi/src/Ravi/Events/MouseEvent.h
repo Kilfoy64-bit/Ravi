@@ -2,8 +2,6 @@
 
 #include "Event.h"
 
-#include<sstream>
-
 namespace Ravi {
 
 	class RAVI_API MouseMovedEvent : public Event

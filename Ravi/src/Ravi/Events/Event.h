@@ -1,9 +1,6 @@
 #pragma once
 
-#include "../CORE.H"
-
-#include <string>
-#include <functional>
+#include "Ravi/CORE.H"
 
 namespace Ravi {
 
