@@ -1,3 +1,6 @@
 [submodule "Ravi/vendor/spdlog"]
 	path = Ravi/vendor/spdlog
 	url = https://github.com/gabime/spdlog
+[submodule "Ravi/vendor/GLFW"]
+	path = Ravi/vendor/GLFW
+	url = https://github.com/Kilfoy64-bit/glfw
